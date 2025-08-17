@@ -1,4 +1,4 @@
-package org.example;
+package org.hangman;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
