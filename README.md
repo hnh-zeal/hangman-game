@@ -71,13 +71,13 @@ A simple and interactive **Hangman** console game written in Java. The program r
 
 ### ⚙️ Customization
 
-Add more words: Simply append to words.txt.
+- Add more words: Simply append to words.txt.
 
-Adjust difficulty: Change the value of MAX_WRONG_GUESSES in Main.java.
+- Adjust difficulty: Change the value of MAX_WRONG_GUESSES in Main.java.
 
-Track guessed letters: Prevent repeat guesses by enhancing the logic.
+- Track guessed letters: Prevent repeat guesses by enhancing the logic.
 
-Improve visuals: Add colors or emojis for better console interaction.
+- Improve visuals: Add colors or emojis for better console interaction.
 
 ---
 
